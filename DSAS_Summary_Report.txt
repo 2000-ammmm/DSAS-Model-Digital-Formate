@@ -1,0 +1,46 @@
+============================================================
+DSAS v5.0 RIVER BANK MIGRATION SUMMARY REPORT
+============================================================
+
+DESCRIPTIVE DATA
+----------------------------------------
+Number of transects: 11
+Transect spacing: 100 meters
+Smoothing distance: 500 meters
+Maximum search distance: 1500 meters
+Baseline placement: midshore
+Confidence interval: 95%
+
+DISTANCE: NSM (Net Shoreline Movement, meters)
+----------------------------------------
+Total transects: 11
+Average NSM: 99.50 m
+Erosional transects: 0 (0.0%)
+Max erosion: N/A
+Accretional transects: 11 (100.0%)
+Max accretion: 99.50 m
+
+RATE: EPR (End Point Rate, meters/year)
+----------------------------------------
+Total transects: 11
+Average EPR: 4.98 m/yr
+Erosional transects: 0 (0.0%)
+Average erosion: N/A
+Accretional transects: 11 (100.0%)
+Average accretion rate: 4.98 m/yr
+
+RATE: LRR (Linear Regression Rate, meters/year)
+----------------------------------------
+Total transects: 11
+Average LRR: 4.98 m/yr
+Average R-squared: 1.000
+
+DISTANCE: SCE (Shoreline Change Envelope, meters)
+----------------------------------------
+Total transects: 11
+Average SCE: 99.50 m
+Maximum SCE: 99.50 m
+
+============================================================
+End of Summary Report
+============================================================
